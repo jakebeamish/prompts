@@ -53,6 +53,9 @@ They could be idiomatic, subject-specific, figurative or archaic collective noun
 
 ## Notes
 
+> "ce n'est pas un système de particules"
+
+
 Protected words in p5.js and Processing:
 - `point`
 
