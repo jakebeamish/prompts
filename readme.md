@@ -1,5 +1,7 @@
 # Collective noun prompts for generative art
 
+https://jakebeamish.github.io/prompts
+
 This is a small project to build a small website that generates a randomised prompt for generative art. Prompts are collective nouns that can be used to rename and revamp the characterless hoards of `Particle` and `Walker` objects used in generative art programs.
 
 Collective nouns that are specific to certain kinds of animals are known as 'terms of venery' or 'nouns of assembly', and are thought to have been brought to England from France sometime before the 14th century. See https://en.wikipedia.org/wiki/Collective_noun#Terms_of_venery. Apparently, they were used as a way to demonstrate one's intellect, and for that, I find them to be a bit ridiculous. However, the colourfulness of the language lends fertility to comparably beige nomenclature that can sometimes be found in generative art programs.
